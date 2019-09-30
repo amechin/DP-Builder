@@ -1,0 +1,7 @@
+C:\Users\adrienmechin\source\repos\BuilderTP\BuilderTP\bin\Debug\BuilderTP.exe.config
+C:\Users\adrienmechin\source\repos\BuilderTP\BuilderTP\bin\Debug\BuilderTP.exe
+C:\Users\adrienmechin\source\repos\BuilderTP\BuilderTP\bin\Debug\BuilderTP.pdb
+C:\Users\adrienmechin\source\repos\BuilderTP\BuilderTP\obj\Debug\BuilderTP.csprojAssemblyReference.cache
+C:\Users\adrienmechin\source\repos\BuilderTP\BuilderTP\obj\Debug\BuilderTP.csproj.CoreCompileInputs.cache
+C:\Users\adrienmechin\source\repos\BuilderTP\BuilderTP\obj\Debug\BuilderTP.exe
+C:\Users\adrienmechin\source\repos\BuilderTP\BuilderTP\obj\Debug\BuilderTP.pdb
