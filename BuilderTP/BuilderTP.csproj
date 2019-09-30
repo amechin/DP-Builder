@@ -46,8 +46,10 @@
     <Compile Include="ClientVehicule.cs" />
     <Compile Include="ConstructeurLiasseVehicule.cs" />
     <Compile Include="ConstructeurLiasseVehiculeHTML.cs" />
+    <Compile Include="ConstructeurLiasseVehiculeDoc.cs" />
     <Compile Include="ConstructeurLiasseVehiculePdf.cs" />
     <Compile Include="Liasse.cs" />
+    <Compile Include="LiasseDOC.cs" />
     <Compile Include="LiasseHTML.cs" />
     <Compile Include="LiassePDF.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
